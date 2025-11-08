@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+	font-size: 30px;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	background: red;
+}
+
+
+.circular {
+	border-radius: 100%;
+}
+
+.bacon:hover {
+	background-color:gold;
+}
